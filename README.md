@@ -7,8 +7,8 @@
 Me chamo Sarah Cristina, tenho 17 anos, moro na cidade de Foz do iguaçu/Pr. Atualmente trabalho na **Alura**❤️
 <div>
   <a href="https://github.com/CriSarah">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CriSarah&show_icons=true&theme=buefy&include_all_commits=true&count-private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CriSarah&layout=compact&langs_count=9&theme=buefy" />
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=CriSarah&show_icons=true&theme=buefy&include_all_commits=true&count-private=true" />
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CriSarah&layout=compact&langs_count=9&theme=buefy" />
 </div>
 
 ##
