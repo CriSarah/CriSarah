@@ -1,10 +1,10 @@
 ### 🌺**Sarah Cristina** 🌺
 
-<h3> Olá, seja bem-vindo ao meu perfil!</h3>
+*Olá, seja bem-vindo ao meu perfil!*
 
 ##
 
-<h3>Me chamo Sarah Cristina, tenho 17 anos, moro na cidade de Foz do iguaçu/Pr. Atualmente trabalho na Alura❤️</h3>
+ *Me chamo Sarah Cristina, tenho 17 anos, moro na cidade de Foz do iguaçu/Pr. Atualmente trabalho na **Alura**❤️*
 <div>
   <a href="https://github.com/CriSarah">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CriSarah&show_icons=true&theme=buefy&include_all_commits=true&count-private=true" />
