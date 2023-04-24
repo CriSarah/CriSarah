@@ -9,6 +9,7 @@
   <a href="https://github.com/CriSarah">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CriSarah&show_icons=true&theme=buefy&include_all_commits=true&count-private=true" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CriSarah&layout=compact&langs_count=9&theme=buefy" />
+   <img height="150em" src="https://i.imgur.com/BdHhMYT.png" />
 </div>
 
 ##
