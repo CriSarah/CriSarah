@@ -4,7 +4,7 @@
 
 ##
 
- *Me chamo Sarah Cristina, tenho 18 anos, moro na cidade de Foz do iguaçu/Pr. Atualmente trabalho na **Alura**❤️*
+ *Me chamo Sarah Cristina, tenho 18 anos, moro na cidade de Foz do iguaçu/Pr.❤️*
 <div>
   <a href="https://github.com/CriSarah">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CriSarah&show_icons=true&theme=buefy&include_all_commits=true&count-private=true" />
